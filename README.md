@@ -6,8 +6,7 @@ End-to-End Selenium Automation for OrangeHRM Web Application using Java, TestNG 
 🔹 Project Overview
 
 This project demonstrates a real-time, industry-level Selenium automation framework for the OrangeHRM Demo Site
-. It covers end-to-end login, dashboard verification, and admin module functionalities, including positive and negative test scenarios.
-
+. It covers end-to-end login, dashboard verification, and admin module functionalities, 
 The framework is built using Java, Selenium WebDriver, TestNG, and Maven, and follows Page Object Model (POM) for maintainability and scalability.
 
 🔹 Features
@@ -28,7 +27,6 @@ The framework is built using Java, Selenium WebDriver, TestNG, and Maven, and fo
 
 ✅ Maven project structure with configurable properties
 
-✅ Cross-browser setup (Chrome/Edge optional)
 
 🔹 Project Structure
 OrangeHRM-Automation/
@@ -53,8 +51,6 @@ Java – Core language for automation
 Selenium WebDriver – Web automation
 
 TestNG – Test framework and test suite management
-
-Extent Reports – Reporting and screenshots
 
 Maven – Dependency and build management
 
