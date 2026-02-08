@@ -1,0 +1,14 @@
+<suite name="OrangeHRM Suite">
+    <test name="Smoke Tests">
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+
+    <test name="Regression Tests">
+        <classes>
+            <class name="tests.DashboardTest"/>
+            <class name="tests.AdminTest"/>
+        </classes>
+    </test>
+</suite>
